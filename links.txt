@@ -6,3 +6,7 @@ BuildCraft
   forum:
   http://www.minecraftforum.net/topic/682920-172-buildcraft-nextgen-6016-builders-blueprints-pipes-quarry-auto-crafting-building-engines/
   
+Waila
+  http://www.curse.com/mc-mods/minecraft/waila#t1:other-downloads
+  forum:
+  http://www.minecraftforum.net/topic/1846244-172-waila-152/
