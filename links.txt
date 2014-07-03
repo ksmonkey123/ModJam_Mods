@@ -10,3 +10,10 @@ Waila
   http://www.curse.com/mc-mods/minecraft/waila#t1:other-downloads
   forum:
   http://www.minecraftforum.net/topic/1846244-172-waila-152/
+  
+IndustrialCraft
+  http://jenkins.ic2.player.to/job/IC2_experimental/
+  http://jenkins.ic2.player.to/job/IC2_experimental/484/ (last 2.1 build for mc 1.7.2, ic2 v2.2 is for mc 1.7.10)
+
+  
+  
